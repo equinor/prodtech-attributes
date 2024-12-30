@@ -32,7 +32,7 @@ jobs:
         python utilities/create_markdown_table.py
 
     - name: Upload Markdown file as artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: markdown-artifact
         path: well_attributes.md
