@@ -1,0 +1,38 @@
+name: Generate Markdown Table from YAML
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  generate-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pyyaml
+
+    - name: Generate Markdown Table
+      run: |
+        python utilities/generate_markdown.py
+
+    - name: Upload Markdown file as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: markdown-artifact
+        path: well_attributes.md
