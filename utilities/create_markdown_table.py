@@ -30,5 +30,5 @@ def yaml_to_markdown_table(yaml_file):
 
 if __name__ == "__main__":
     markdown_table = yaml_to_markdown_table(VALID_YAML)
-    with open("well_attributes.md", "w") as md_file:
+    with open("utilities//well_attributes.md", "w") as md_file:
         md_file.write(markdown_table)

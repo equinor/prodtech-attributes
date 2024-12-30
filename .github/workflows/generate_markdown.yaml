@@ -35,4 +35,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: markdown-artifact
-        path: well_attributes.md
+        path: utilities/well_attributes.md
