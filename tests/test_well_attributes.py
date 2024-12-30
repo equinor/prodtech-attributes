@@ -4,7 +4,7 @@ import pytest
 from pydantic import ValidationError
 import yaml
 
-VALID_YAML_PATH = os.path.join("Attributes", "well_attributes.yaml")
+VALID_YAML_PATH = os.path.join("attributes", "well_attributes.yaml")
 
 # Dummy data for testing
 duplicate_identifier_yaml = """
