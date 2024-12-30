@@ -1,0 +1,519 @@
+attribute:
+  ASD 2 Alarm:
+    alias: ASD_2_ALARM
+    color: null
+    description: 'Acoustic Sand Detector 2 Alarm'
+    identifier: 'ASD 2 Alarm'
+    af_category: null
+    af_category_2: null
+  ASD 2 Alarm Level:
+    alias: ASD_2_ALARM_LEVEL
+    color: null
+    description: 'Acoustic Sand Detector 2 Alarm Level'
+    identifier: 'ASD 2 Alarm Level'
+    af_category: null
+    af_category_2: null
+  ASD 2 Alarm Mass:
+    alias: ASD_2_ALARM_MASS
+    color: null
+    description: 'Acoustic Sand Detector 2 Alarm Mass'
+    identifier: 'ASD 2 Alarm Mass'
+    af_category: null
+    af_category_2: null
+  ASD 2 H1 Alarm Limit:
+    alias: ASD_2_ALARM_LIMIT
+    color: null
+    description: 'Acoustic Sand Detector 2 H1 Alarm Limit'
+    identifier: 'ASD 2 H1 Alarm Limit'
+    af_category: null
+    af_category_2: null
+  ASD 2 Step:
+    alias: ASD_2_STEP
+    color: null
+    description: 'Acoustic Sand Detector 2 Step (Calibration Value)'
+    identifier: 'ASD 2 Step'
+    af_category: null
+    af_category_2: null
+  ASD 2 Tech Alarm:
+    alias: ASD_2_TECH_ALARM
+    color: null
+    description: 'Acoustic Sand Detector 2 Tech Alarm'
+    identifier: 'ASD 2 Tech Alarm'
+    af_category: null
+    af_category_2: null
+  ASD 2 Velocity:
+    alias: ASD_2_VELOCITY
+    color: null
+    description: 'Acoustic Sand Detector 2 Input Velocity'
+    identifier: 'ASD 2 Velocity'
+    af_category: null
+    af_category_2: null
+  ASD 2 Zero:
+    alias: ASD_2_ZERO
+    color: null
+    description: 'Acoustic Sand Detector 2 Zero (Background Noise)'
+    identifier: 'ASD 2 Zero'
+    af_category: null
+    af_category_2: null
+  ASD Alarm:
+    alias: ASD_ALARM
+    color: null
+    description: 'Acoustic Sand Detector Alarm'
+    identifier: 'ASD Alarm'
+    af_category: null
+    af_category_2: null
+  ASD Alarm Level:
+    alias: ASD_ALARM_LEVEL
+    color: null
+    description: 'Acoustic Sand Detector Alarm Level'
+    identifier: 'ASD Alarm Level'
+    af_category: null
+    af_category_2: null
+  ASD Alarm Mass:
+    alias: ASD_ALARM_MASS
+    color: null
+    description: 'Acoustic Sand Detector Alarm Mass'
+    identifier: 'ASD Alarm Mass'
+    af_category: null
+    af_category_2: null
+  ASD H1 Alarm Limit:
+    alias: ASD_ALARM_LIMIT
+    color: null
+    description: 'Acoustic Sand Detector H1 Alarm Limit'
+    identifier: 'ASD H1 Alarm Limit'
+    af_category: null
+    af_category_2: null
+  ASD Raw:
+    alias: ASD_RAW
+    color: null
+    description: 'Acoustic Sand Detector Raw Value'
+    identifier: 'ASD Raw'
+    af_category: null
+    af_category_2: null
+  ASD Raw 2:
+    alias: ASD_2_RAW
+    color: null
+    description: 'Acoustic Sand Detector 2 Raw Value'
+    identifier: 'ASD 2 Raw'
+    af_category: null
+    af_category_2: null
+  ASD Step:
+    alias: ASD_STEP
+    color: null
+    description: 'Acoustic Sand Detector Step (Calibration Value)'
+    identifier: 'ASD Step'
+    af_category: null
+    af_category_2: null
+  ASD Tech Alarm:
+    alias: ASD_TECH_ALARM
+    color: null
+    description: 'Acoustic Sand Detector Tech Alarm'
+    identifier: 'ASD Tech Alarm'
+    af_category: null
+    af_category_2: null
+  ASD Velocity:
+    alias: ASD_VELOCITY
+    color: null
+    description: 'Acoustic Sand Detector Input Velocity'
+    identifier: 'ASD Velocity'
+    af_category: null
+    af_category_2: null
+  ASD Zero:
+    alias: ASD_ZERO
+    color: null
+    description: 'Acoustic Sand Detector Zero (Background Noise)'
+    identifier: 'ASD Zero'
+    af_category: null
+    af_category_2: null
+  Choke:
+    alias: CHOKE_TRAVEL
+    color: '#000000'
+    description: 'Choke Travel'
+    identifier: Choke
+    af_category: 'Control and Monitoring'
+    af_category_2: 'Valves'
+  Choke 2:
+    alias: CHOKE_2_TRAVEL
+    color: null
+    description: 'Choke 2 Travel'
+    identifier: 'Choke 2'
+    af_category: null
+    af_category_2: null
+  Choke dP:
+    alias: CHOKE_DP
+    color: null
+    description: 'Choke Delta Pressure'
+    identifier: 'Choke dP'
+    af_category: null
+    af_category_2: null
+  DH Press:
+    alias: DHP
+    color: null
+    description: 'Downhole Pressure'
+    identifier: 'DH Press'
+    af_category: null
+    af_category_2: null
+  DH Temp:
+    alias: DHT
+    color: null
+    description: 'Downhole Temperature'
+    identifier: 'DH Temp'
+    af_category: null
+    af_category_2: null
+  DHSV:
+    alias: DHSV
+    color: null
+    description: 'Downhole Safety Valve Status'
+    identifier: 'DHSV'
+    af_category: null
+    af_category_2: null
+  DHSV Actuator Press A:
+    alias: DHSV_ACT_PRESS_A
+    color: null
+    description: 'Downhole Safety Valve Actuator Pressure A'
+    identifier: 'DHSV Actuator Press A'
+    af_category: null
+    af_category_2: null
+  DHSV Actuator Press B:
+    alias: DHSV_ACT_PRESS_B
+    color: null
+    description: 'Downhole Safety Valve Actuator Pressure B'
+    identifier: 'DHSV Actuator Press B'
+    af_category: null
+    af_category_2: null
+  DSC Press:
+    alias: DSCP
+    color: null
+    description: 'Downstream Choke Pressure'
+    identifier: 'DSC Press'
+    af_category: null
+    af_category_2: null
+  DSC Temp:
+    alias: DSCT
+    color: null
+    description: 'Downstream Choke Temperature'
+    identifier: 'DSC Temp'
+    af_category: null
+    af_category_2: null
+  ESP Current:
+    alias: ESP_CURRENT
+    color: null
+    description: 'ESP Current'
+    identifier: 'ESP Current'
+    af_category: null
+    af_category_2: null
+  ESP Discharge Press:
+    alias: ESP_DISCHARGE_P
+    color: null
+    description: 'ESP Discharge Pressure'
+    identifier: 'ESP Discharge Press'
+    af_category: null
+    af_category_2: null
+  ESP Discharge Temp:
+    alias: ESP_DISCHARGE_T
+    color: null
+    description: 'ESP Discharge Temperature'
+    identifier: 'ESP Discharge Temp'
+    af_category: null
+    af_category_2: null
+  ESP Frequency:
+    alias: ESP_FREQUENCY
+    color: null
+    description: 'ESP Power Frequency'
+    identifier: 'ESP Frequency'
+    af_category: null
+    af_category_2: null
+  ESP Intake Press:
+    alias: ESP_INTAKE_P
+    color: null
+    description: 'ESP Intake Pressure'
+    identifier: 'ESP Intake Press'
+    af_category: null
+    af_category_2: null
+  ESP Intake Temp:
+    alias: ESP_INTAKE_T
+    color: null
+    description: 'ESP Intake Temperature'
+    identifier: 'ESP Intake Temp'
+    af_category: null
+    af_category_2: null
+  ESP Motor Temp:
+    alias: ESP_MOTOR_T
+    color: null
+    description: 'ESP Motor Temperature'
+    identifier: 'ESP Motor Temp'
+    af_category: null
+    af_category_2: null
+  ESP Power:
+    alias: ESP_POWER
+    color: null
+    description: 'ESP Power'
+    identifier: 'ESP Power'
+    af_category: null
+    af_category_2: null
+  ESP Voltage:
+    alias: ESP_VOLTAGE
+    color: null
+    description: 'ESP Voltage'
+    identifier: 'ESP Voltage'
+    af_category: null
+    af_category_2: null
+  Erosion Rate:
+    alias: ER_EROSION_RATE
+    color: null
+    description: 'ER Erosion Rate'
+    identifier: 'ER Erosion Rate'
+    af_category: null
+    af_category_2: null
+  FM Gas Rate:
+    alias: FM_GAS_RATE
+    color: null
+    description: 'Flow Manager Gas Rate'
+    identifier: 'FM Gas Rate'
+    af_category: null
+    af_category_2: null
+  FM Oil Rate:
+    alias: FM_OIL_RATE
+    color: null
+    description: 'Flow Manager Oil Rate'
+    identifier: 'FM Oil Rate'
+    af_category: null
+    af_category_2: null
+  FM Water Rate:
+    alias: FM_WATER_RATE
+    color: null
+    description: 'Flow Manager Water Rate'
+    identifier: 'FM Water Rate'
+    af_category: null
+    af_category_2: null
+  GL Choke:
+    alias: GL_CHOKE_TRAVEL
+    color: null
+    description: 'Gas Lift Choke Travel'
+    identifier: 'GL Choke'
+    af_category: null
+    af_category_2: null
+  GL Pressure:
+    alias: GL_PRESS
+    color: null
+    description: 'Gas Lift Choke Pressure'
+    identifier: 'GL Pressure'
+    af_category: null
+    af_category_2: null
+  GL Rate:
+    alias: GL_RATE
+    color: null
+    description: 'Gas Lift Gas Rate'
+    identifier: 'GL Rate'
+    af_category: null
+    af_category_2: null
+  GL Temp:
+    alias: GL_TEMP
+    color: null
+    description: 'Gas Lift Temperature'
+    identifier: 'GL Temp'
+    af_category: null
+    af_category_2: null
+  Gas Inj Rate:
+    alias: GAS_INJ_RATE
+    color: null
+    description: 'Gas Injection Rate'
+    identifier: 'Gas Inj Rate'
+    af_category: null
+    af_category_2: null
+  Gas Rate VFM:
+    alias: VFM_GAS_RATE
+    color: null
+    description: 'Virtual Flow Meter Gas Rate'
+    identifier: 'VFM Gas Rate'
+    af_category: null
+    af_category_2: null
+  MPM 2 Gas Rate:
+    alias: MPM_2_GAS_RATE
+    color: null
+    description: 'Multiphase Flow Meter 2 Gas Rate'
+    identifier: 'MPM Gas Rate 2'
+    af_category: null
+    af_category_2: null
+  MPM 2 Oil Rate:
+    alias: MPM_2_OIL_RATE
+    color: null
+    description: 'Multiphase Flow Meter 2 Oil Rate'
+    identifier: 'MPM Oil Rate 2'
+    af_category: null
+    af_category_2: null
+  MPM 2 Water Rate:
+    alias: MPM_2_WATER_RATE
+    color: null
+    description: 'Multiphase Flow Meter 2 Water Rate'
+    identifier: 'MPM Water Rate 2'
+    af_category: null
+    af_category_2: null
+  MPM Gas Rate:
+    alias: MPM_GAS_RATE
+    color: null
+    description: 'Multiphase Flow Meter Gas Rate'
+    identifier: 'MPM Gas Rate'
+    af_category: null
+    af_category_2: null
+  MPM Oil Rate:
+    alias: MPM_OIL_RATE
+    color: null
+    description: 'Multiphase Flow Meter Oil Rate'
+    identifier: 'MPM Oil Rate'
+    af_category: null
+    af_category_2: null
+  MPM Water Rate:
+    alias: MPM_WATER_RATE
+    color: null
+    description: 'Multiphase Flow Meter Water Rate'
+    identifier: 'MPM Water Rate'
+    af_category: null
+    af_category_2: null
+  Master:
+    alias: MASTER
+    color: null
+    description: 'Master Valve Status'
+    identifier: Master
+    af_category: null
+    af_category_2: null
+  Master Actuator Press A:
+    alias: MASTER_ACT_PRESS_A
+    color: null
+    description: 'Master Valve Actuator Pressure A'
+    identifier: 'Master Actuator Press A'
+    af_category: null
+    af_category_2: null
+  Master Actuator Press B:
+    alias: MASTER_ACT_PRESS_B
+    color: null
+    description: 'Master Valve Actuator Pressure B'
+    identifier: 'Master Actuator Press B'
+    af_category: null
+    af_category_2: null
+  Oil Rate VFM:
+    alias: VFM_OIL_RATE
+    color: null
+    description: 'Virtual Flow Meter Oil Rate'
+    identifier: 'VFM Oil Rate'
+    af_category: null
+    af_category_2: null
+  Routing Valve Test Manifold:
+    alias: ROUTING_VALVE_TEST_MANIFOLD
+    color: null
+    description: 'Routing Valve Status Test Manifold'
+    identifier: 'Routing Valve Test Manifold'
+    af_category: null
+    af_category_2: null
+  Routing Valve Test Manifold 2:
+    alias: ROUTING_VALVE_TEST_MANIFOLD_2
+    color: null
+    description: 'Routing Valve Status Test Manifold 2'
+    identifier: 'Routing Valve Test Manifold 2'
+    af_category: null
+    af_category_2: null
+  Sand Rate:
+    alias: ASD_SAND_RATE
+    color: null
+    description: 'Acoustic Sand Detector Sand Rate'
+    identifier: 'Sand Rate'
+    af_category: null
+    af_category_2: null
+  Sand Rate 2:
+    alias: ASD_2_SAND_RATE
+    color: null
+    description: 'Acoustic Sand Detector 2 Sand Rate'
+    identifier: 'Sand Rate 2'
+    af_category: null
+    af_category_2: null
+  Sand Trap Rate:
+    alias: SAND_TRAP_RATE
+    color: null
+    description: 'Sand Rate from Sand Trap'
+    identifier: 'Sand Trap Rate'
+    af_category: null
+    af_category_2: null
+  USC Press:
+    alias: USCP
+    color: null
+    description: 'Upstream Choke Pressure'
+    identifier: 'USC Press'
+    af_category: null
+    af_category_2: null
+  USC Temp:
+    alias: USCT
+    color: null
+    description: 'Upstream Choke Temperature'
+    identifier: 'USC Temp'
+    af_category: null
+    af_category_2: null
+  WH Ann A Press:
+    alias: WH_ANN_A_P
+    color: null
+    description: 'Wellhead Annulus A Pressure'
+    identifier: 'WH Ann A Press'
+    af_category: null
+    af_category_2: null
+  WH Ann A Temp:
+    alias: WH_ANN_A_T
+    color: null
+    description: 'Wellhead Annulus A Temperature'
+    identifier: 'WH Ann A Temp'
+    af_category: null
+    af_category_2: null
+  WH Press:
+    alias: WHP
+    color: null
+    description: 'Wellhead Pressure'
+    identifier: 'WH Press'
+    af_category: null
+    af_category_2: null
+  WH Temp:
+    alias: WHT
+    color: null
+    description: 'Wellhead Temperature'
+    identifier: 'WH Temp'
+    af_category: null
+    af_category_2: null
+  Water Inj Rate:
+    alias: WATER_INJ_RATE
+    color: null
+    description: 'Water Injection Rate'
+    identifier: 'Water Inj Rate'
+    af_category: null
+    af_category_2: null
+  Water Rate VFM:
+    alias: VFM_WATER_RATE
+    color: null
+    description: 'Virtual Flow Meter Water Rate'
+    identifier: 'VFM Water Rate'
+    af_category: null
+    af_category_2: null
+  Well On Stream:
+    alias: WELL_ON_STREAM
+    color: null
+    description: 'Well On Stream'
+    identifier: 'Well On Stream'
+    af_category: null
+    af_category_2: null
+  Wing:
+    alias: WING
+    color: null
+    description: 'Wing Valve Status'
+    identifier: Wing
+    af_category: null
+    af_category_2: null
+  Wing Actuator Press A:
+    alias: WING_ACT_PRESS_A
+    color: null
+    description: 'Wing Valve Actuator Pressure A'
+    identifier: 'Wing Actuator Press A'
+    af_category: null
+    af_category_2: null
+  Wing Actuator Press B:
+    alias: WING_ACT_PRESS_B
+    color: null
+    description: 'Wing Valve Actuator Pressure B'
+    identifier: 'Wing Actuator Press B'
+    af_category: null
+    af_category_2: null
