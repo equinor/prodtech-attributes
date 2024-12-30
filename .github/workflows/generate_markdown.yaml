@@ -29,7 +29,7 @@ jobs:
 
     - name: Generate Markdown Table
       run: |
-        python utilities/generate_markdown.py
+        python utilities/create_markdown_table.py
 
     - name: Upload Markdown file as artifact
       uses: actions/upload-artifact@v3
