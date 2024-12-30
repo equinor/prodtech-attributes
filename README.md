@@ -5,12 +5,12 @@ Standardize attribute identifiers for objects relevant in modeling production- a
 
 ## Scope
 The scope of this repository includes establishing a core set of attribute names for the following objects:
-* Well 
+* **Well**
 * *Flowline (TBA)*
 * *Separator (TBA)*
 * *Pump (TBA)*
 
-The core set of attribute names aims to cover minimum functional Equinor internal requirements for these objects.
+The core set of attribute names aims to cover minimum functional Equinor internal requirements for these objects. The attribute definitions can be found within the project `attributes` folder.
 
 ## Contributing
 If you want to contribute to the project and make it better, your help
