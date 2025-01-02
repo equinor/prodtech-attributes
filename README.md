@@ -9,16 +9,16 @@
 
 
 ## Purpose
-> Standardize on naming practices for properties of objects relevant in modeling production- and injection networks.
+> Standardize on naming practices for attributes of objects relevant in modeling production- and injection networks.
 
 ## Scope
-The scope of this repository includes establishing a core set of attribute names for the following objects:
+The scope of this repository includes establishing a core set of attribute identifiers for the following objects:
 * **Well**
 * *Flowline (TBA)*
 * *Separator (TBA)*
 * *Pump (TBA)*
 
-The core set of attribute names aims to cover minimum functional Equinor internal requirements for these objects.
+The core set of attribute identifiers aims to cover minimum functional Equinor internal requirements for these objects.
 
 ## Attributes
 | Column Name     | Constraints      |  Usage Guideline |
