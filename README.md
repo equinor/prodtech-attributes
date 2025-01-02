@@ -1,7 +1,15 @@
+<p align="center">
+<img src="resources/images/logo.jpg" title="ProdTech Attributes" height="300"/>
+</p>
+<p align="center"><i>Logo created using OpenAI's DALL·E</i></p>
+
+[![SCM Compliance](https://scm-compliance-api.radix.equinor.com/repos/equinor/4c903977-52bb-4275-b702-4da3efd24716/badge)](https://developer.equinor.com/governance/scm-policy/)
+
 # Production Technology Attributes
 
+
 ## Purpose
-Standardize attribute identifiers for objects relevant in modeling production- and injection networks.
+> Standardize on naming practices for properties of objects relevant in modeling production- and injection networks.
 
 ## Scope
 The scope of this repository includes establishing a core set of attribute names for the following objects:
@@ -13,14 +21,14 @@ The scope of this repository includes establishing a core set of attribute names
 The core set of attribute names aims to cover minimum functional Equinor internal requirements for these objects.
 
 ## Attributes
-| Column Name | Usage Guideline |
-|-------------|-----------------|
-| `identifier` | The unique identifier for the object attribute |
-| `alias` | An alias that can be used in backend systems when using the attribute identifier is not feasible |
-| `description` | A description of the intended representation of the attribute |
-| `color` | A recommended color (HEX code) to represent the attribute when used in visualization tools |
-| `af_category` | A recommended primary asset framework category for the attribute |
-| `af_category_2` | A recommended secondary asset framework category for the attribute |
+| Column Name     | Constraints      |  Usage Guideline |
+|-----------------|------------------|------------------|
+| `identifier`    | Required, Unique | The unique identifier for the object attribute |
+| `alias`         | Required, Unique |An alias that can be used in backend systems when using the attribute identifier is not feasible |
+| `description`   | Required         |A description of the intended representation of the attribute |
+| `color`         | Optional         |A recommended color (HEX code) to represent the attribute when used in visualization tools |
+| `af_category`   | Required         |A recommended primary asset framework category for the attribute |
+| `af_category_2` | Optional         |A recommended secondary asset framework category for the attribute |
 
 Defined attributes can be found in the project **Attributes** folder.
 
