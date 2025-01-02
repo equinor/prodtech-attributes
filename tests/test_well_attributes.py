@@ -1,5 +1,5 @@
 import os
-from model.well_model import WellAttributes
+from model.well import WellAttributes
 import pytest
 from pydantic import ValidationError
 import yaml
