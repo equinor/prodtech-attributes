@@ -1,7 +1,7 @@
 # Contributing
 
 If you want to contribute to the project and make it better, your help 
-is very welcome. By using the proposed attribute naming across companies, we can better validate and improve upon it togtether.
+is very welcome. By using the proposed attribute naming across companies, we can better validate and improve upon it together.
 
 ## Types of Contributions
 
