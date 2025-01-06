@@ -14,7 +14,7 @@ Report improvement or change to existing code at https://github.com/equinor/prod
 
 ### Propose New Features
 The best way to propose new attributes is to open an issue at
-https://github.com/equinor/pysand/issues with the label `enhancement`.
+https://github.com/equinor/prodtech-attributes/issues with the label `enhancement`.
 If you are proposing new attributes or a feature:
 
 * Explain in detail how it should work.
