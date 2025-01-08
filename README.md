@@ -3,7 +3,7 @@
 </p>
 <p align="center"><i>Logo created using OpenAI's DALL·E</i></p>
 
-[![SCM Compliance](https://scm-compliance-api.radix.equinor.com/repos/equinor/a1d64172-c557-414d-a3ea-d1064172a78b/badge)](https://developer.equinor.com/governance/scm-policy/)
+[![SCM Compliance](https://scm-compliance-api.radix.equinor.com/repos/equinor/4c903977-52bb-4275-b702-4da3efd24716/badge)](https://developer.equinor.com/governance/scm-policy/)
 
 # Production Technology Attributes
 
