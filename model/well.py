@@ -25,6 +25,7 @@ class Attribute(BaseModel):
     identifier: str = Field(..., min_length=1)
     af_category: af_categories
     af_category_2: Optional[af_categories] = None
+    identifier_translations: Optional[Dict[str, str]] = None
 
     @field_validator("identifier", "alias", "description", mode="before")
     @classmethod

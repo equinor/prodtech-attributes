@@ -171,3 +171,6 @@ cython_debug/
 .pypirc
 
 well_attributes.md
+well_attributes_mediawiki.txt
+
+.vscode/

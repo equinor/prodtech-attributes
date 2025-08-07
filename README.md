@@ -29,6 +29,7 @@ The core set of attribute identifiers aims to cover minimum functional Equinor i
 | `color`         | Optional         |A recommended color (HEX code) to represent the attribute when used in visualization tools |
 | `af_category`   | Required         |A recommended primary asset framework category for the attribute |
 | `af_category_2` | Optional         |A recommended secondary asset framework category for the attribute |
+| `identifier_translations` | Optional | A list of translations for the identifier | 
 
 Defined attributes can be found in the project **Attributes** folder.
 
